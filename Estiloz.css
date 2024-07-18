@@ -1,0 +1,67 @@
+.cedarville-cursive-regular {
+    font-family: "Cedarville Cursive";
+    font-weight: 500;
+    font-style: normal;
+         }
+body{
+    margin: 10%;
+    background-image: url('https://denomades.imgix.net/destinos/arequipa/763/petroglifos-culebrillas.jpg?w=907&h=494&fit=crop&q=100');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: "Cedarville Cursive";
+    font-style: "Cedarville Cursive";
+    text-align: center;
+    font-size: 45px;
+    text-decoration:dashed;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    text-align: justify;
+    font-size: 20px;
+    text-decoration:dashed;
+}
+p {  
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-style: normal;
+    text-align: justify;
+    text-decoration: normal; 
+}
+
+strong{
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    font-style: italic;
+}
+.container {
+    display:flex;
+    flex-direction: column;
+    min-height: 100%;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    font-size: 20px;
+    background-color: transparent;
+    padding-top: 15%;
+    padding-bottom: 10%;
+    width: 100%;
+}
+li {
+    background-color: transparent;
+}
+div{
+    display: flex;
+}
+
+.strong{
+    font-weight: normal;
+}
+
